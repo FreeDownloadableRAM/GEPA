@@ -19,3 +19,5 @@ Music is made by me. Sound effects created using:
 https://sfxr.me/
 
 Synthfont, Sforzando, Touhou.sf2 were used for music.
+
+Youtube Video Link: https://www.youtube.com/watch?v=8OKs6_2tZls&ab_channel=Halinaqi2
